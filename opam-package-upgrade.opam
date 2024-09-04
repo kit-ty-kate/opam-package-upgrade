@@ -13,7 +13,7 @@ bug-reports: "https://github.com/AltGr/opam-package-upgrade/issues"
 tags: "org:ocamlpro"
 flags: plugin
 depends: [
-  "opam-client" {>= "2.0.1"}
+  "opam-client" {>= "2.1"}
   "cmdliner"
   "dune"
 ]
